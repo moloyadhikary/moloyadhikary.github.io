@@ -2642,3 +2642,8 @@ input, select, textarea {
 				}
 
 	}
+
+/* Custom CSS */
+.bold {
+	font-weight: bold;
+}
